@@ -1,0 +1,1 @@
+console.log(CONFIG.HELLO_SECRET);
